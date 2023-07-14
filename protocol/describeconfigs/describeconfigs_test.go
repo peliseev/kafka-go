@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/segmentio/kafka-go/protocol"
+	"github.com/peliseev/kafka-go/protocol"
 	"github.com/stretchr/testify/require"
 )
 

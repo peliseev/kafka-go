@@ -3,8 +3,8 @@ package alterconfigs_test
 import (
 	"testing"
 
-	"github.com/segmentio/kafka-go/protocol/alterconfigs"
-	"github.com/segmentio/kafka-go/protocol/prototest"
+	"github.com/peliseev/kafka-go/protocol/alterconfigs"
+	"github.com/peliseev/kafka-go/protocol/prototest"
 )
 
 const (

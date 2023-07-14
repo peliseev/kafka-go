@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/segmentio/kafka-go/compress"
+	"github.com/peliseev/kafka-go/compress"
 )
 
 func TestRequiredAcks(t *testing.T) {
